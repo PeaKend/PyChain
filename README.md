@@ -8,7 +8,7 @@ A small localhost blockchain in Python 3
 genesis.py
 ```
 
-Creates the folder __data__ (where all the blocks are going to be created) and the __header__ of the Bitcoin __genesis block__.
+Creates the __header__ of the genesis block (_using Bitcoin genesis in this case_)
 
 ```
 mine.py
