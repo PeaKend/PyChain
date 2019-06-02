@@ -14,19 +14,19 @@ Creates the __header__ of the genesis block (_using Bitcoin genesis in this case
 mine.py
 ```
 
-Mines for the next block using a __difficulty__ of 4 (4 0's for each new block). You can change the __difficulty__ variable in the script file.
+Mines for the next block using a __difficulty__ of 4 (4 0's for each new block). You can change the __difficulty__ variable in the script file
 
 ```
 client.py
 ```
 
-Inserts __tx's__ inside the next block before they're mined.
+Inserts __tx's__ inside the next block before they're mined
 
 ```
 utils.py
 ```
 
-A __module__ containing the functions needed in the other scripts.
+A __module__ containing the functions needed in the other scripts
 
 ## Screenshots
 
