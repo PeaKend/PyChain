@@ -28,4 +28,9 @@ utils.py
 
 A __module__ containing the functions needed in the other scripts.
 
+## Screenshots
+
+![Mining with client](https://raw.githubusercontent.com/PeaKend/pychain/master/example_images/mining.png)
+
+![Hexdump of blocks](https://raw.githubusercontent.com/PeaKend/pychain/master/example_images/hexdump.png)
 
