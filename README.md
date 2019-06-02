@@ -8,7 +8,7 @@ A small localhost blockchain written in Python 3
 genesis.py
 ```
 
-Creates the __header__ of the genesis block (_using Bitcoin genesis in this case_)
+Creates the __header__ of the genesis block (_using Bitcoin genesis header in this case_)
 
 ```
 mine.py
