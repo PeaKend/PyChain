@@ -20,5 +20,5 @@ Mines for the next block using a __difficulty__ of 4 (4 0's for each new block).
 client.py
 ```
 
-Inserts tx's inside of blocks before they're mined.
+Inserts __tx's__ inside the next block before they're mined.
 
