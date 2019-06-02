@@ -1,6 +1,6 @@
 # PyChain
 
-A small localhost blockchain simulator written in Python 3
+A small localhost blockchain written in Python 3
 
 ## Usage
 
