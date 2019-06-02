@@ -26,7 +26,7 @@ Inserts __tx's__ inside the next block before they're mined
 utils.py
 ```
 
-A __module__ containing the functions needed in the other scripts
+The __module__ containing the functions needed in the rest of the scripts
 
 ## Screenshots
 
