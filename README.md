@@ -38,3 +38,13 @@ __Hexdump__ of a block without a transaction and a block with one
 
 ![Hexdump of blocks](https://raw.githubusercontent.com/PeaKend/pychain/master/example_images/hexdump.png)
 
+## Authors
+
+* __Facundo Atrio__ - _Project_
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
