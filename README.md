@@ -30,7 +30,11 @@ A __module__ containing the functions needed in the other scripts.
 
 ## Screenshots
 
+Using __mine.py__ to find new blocks and __client.py__ to add transactions
+
 ![Mining with client](https://raw.githubusercontent.com/PeaKend/pychain/master/example_images/mining.png)
+
+__Hexdump__ of a block without a transaction and a block with one
 
 ![Hexdump of blocks](https://raw.githubusercontent.com/PeaKend/pychain/master/example_images/hexdump.png)
 
